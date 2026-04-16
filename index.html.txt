@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <style>
+        body { font-family: sans-serif; background-color: #f4f4f4; text-align: center; padding: 50px; }
+        .box { background: white; padding: 30px; display: inline-block; border-radius: 10px; border: 1px solid #ddd; }
+        h1 { color: #222; }
+        p { color: #555; }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>My Coding Portfolio</h1>
+        <p>Computer Science Lab Assignment</p>
+        <hr>
+        <p><b>Projects:</b> Vigenère Cipher & Finance App</p>
+    </div>
+</body>
+</html>
